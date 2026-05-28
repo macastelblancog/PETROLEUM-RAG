@@ -63,6 +63,6 @@
         "pregunta": "What makes a petroleum system complete and ready for exploration?",
         "respuesta_esperada": "Source rock, reservoir, seal, trap and timing must all be present",
         "expected_answer_keywords": ["source", "reservoir", "seal", "trap"],
-        "tema_esperado": "petroleum_systems"
+        "tema_esperado": "petroleum_systems_pdf"
     }
 ]
