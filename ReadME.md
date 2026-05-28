@@ -1,7 +1,7 @@
 # RAG Aplicado a Ingeniería de Petróleos
 
 Sistema de Retrieval-Augmented Generation que responde preguntas técnicas sobre
-ingeniería de petróleos a partir de fuentes públicas ( (EIA)[https://www.eia.gov/], [USGS](https://pubs.usgs.gov/), [SLB](https://glossary.slb.com/en/terms/p/permeability)).
+ingeniería de petróleos a partir de fuentes públicas ( [EIA](https://www.eia.gov/), [USGS](https://pubs.usgs.gov/), [SLB](https://glossary.slb.com/en/terms/p/permeability)).
 
 Desarrollado como taller final del curso Procesamiento de Lenguaje Natural.
 
