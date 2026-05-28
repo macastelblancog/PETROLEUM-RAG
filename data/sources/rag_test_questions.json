@@ -1,0 +1,68 @@
+[
+    {
+        "pregunta": "What is permeability in petroleum engineering?",
+        "respuesta_esperada": "The ability of a formation to transmit fluids",
+        "expected_answer_keywords": ["permeability", "fluid", "formation", "flow"],
+        "tema_esperado": "permeability"
+    },
+    {
+        "pregunta": "How is crude oil refined into petroleum products?",
+        "respuesta_esperada": "Through distillation and other refinery processes",
+        "expected_answer_keywords": ["refin", "distillation", "crude", "fraction"],
+        "tema_esperado": "refining"
+    },
+    {
+        "pregunta": "What is pore pressure and why does it matter in drilling?",
+        "respuesta_esperada": "The pressure of fluids within the pores of a reservoir",
+        "expected_answer_keywords": ["pore", "pressure", "fluid", "formation"],
+        "tema_esperado": "pore_pressure"
+    },
+    {
+        "pregunta": "What is natural gas and how is it used?",
+        "respuesta_esperada": "A fossil fuel composed mainly of methane, used for heating and electricity",
+        "expected_answer_keywords": ["natural gas", "methane", "fossil", "energy"],
+        "tema_esperado": "natural_gas_basics"
+    },
+    {
+        "pregunta": "What is gas lift in artificial lift systems?",
+        "respuesta_esperada": "A method to lift fluids from a well by injecting gas",
+        "expected_answer_keywords": ["gas lift", "inject", "fluid", "well"],
+        "tema_esperado": "artificial_lift"
+    },
+    {
+        "pregunta": "Que es la porosidad efectiva en una roca reservorio?",
+        "respuesta_esperada": "The porosity available for fluid flow (connected pores)",
+        "expected_answer_keywords": ["porosity", "pore", "fluid", "effective"],
+        "tema_esperado": "porosity"
+    },
+    {
+        "pregunta": "Why are drilling fluids important during well construction?",
+        "respuesta_esperada": "They control pressure, cool the bit, and carry cuttings to surface",
+        "expected_answer_keywords": ["drilling fluid", "mud", "pressure", "cuttings"],
+        "tema_esperado": "drilling_fluids"
+    },
+    {
+        "pregunta": "How does well logging help characterize a reservoir?",
+        "respuesta_esperada": "By measuring physical properties of the formation along the wellbore",
+        "expected_answer_keywords": ["log", "formation", "resistivity", "porosity"],
+        "tema_esperado": "well_logging"
+    },
+    {
+        "pregunta": "What is the difference between conventional and unconventional oil resources?",
+        "respuesta_esperada": "Conventional flows naturally; unconventional requires stimulation like fracking",
+        "expected_answer_keywords": ["conventional", "unconventional", "tight", "shale"],
+        "tema_esperado": "oil_supply_and_production"
+    },
+    {
+        "pregunta": "How does permeability affect production rates in a petroleum reservoir?",
+        "respuesta_esperada": "Higher permeability allows fluids to flow more easily, increasing production",
+        "expected_answer_keywords": ["permeability", "flow", "production", "reservoir"],
+        "tema_esperado": "permeability"
+    },
+    {
+        "pregunta": "What makes a petroleum system complete and ready for exploration?",
+        "respuesta_esperada": "Source rock, reservoir, seal, trap and timing must all be present",
+        "expected_answer_keywords": ["source", "reservoir", "seal", "trap"],
+        "tema_esperado": "petroleum_systems"
+    }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "topic": "oil_basics",
+    "title": "Oil and Petroleum Products Explained",
+    "url": "https://www.eia.gov/energyexplained/oil-and-petroleum-products/",
+    "source": "U.S. Energy Information Administration",
+    "license_note": "U.S. government/public information; retain attribution."
+  },
+  {
+    "topic": "oil_supply_and_production",
+    "title": "Where Our Oil Comes From",
+    "url": "https://www.eia.gov/energyexplained/oil-and-petroleum-products/where-our-oil-comes-from-in-depth.php",
+    "source": "U.S. Energy Information Administration",
+    "license_note": "U.S. government/public information; retain attribution."
+  },
+  {
+    "topic": "refining",
+    "title": "Refining Crude Oil: The Refining Process",
+    "url": "https://www.eia.gov/energyexplained/oil-and-petroleum-products/refining-crude-oil-the-refining-process.php",
+    "source": "U.S. Energy Information Administration",
+    "license_note": "U.S. government/public information; retain attribution."
+  },
+  {
+    "topic": "natural_gas_basics",
+    "title": "Natural Gas Explained",
+    "url": "https://www.eia.gov/energyexplained/natural-gas/",
+    "source": "U.S. Energy Information Administration",
+    "license_note": "U.S. government/public information; retain attribution."
+  },
+  {
+    "topic": "petroleum_systems",
+    "title": "Petroleum Systems and Geologic Assessment of Oil and Gas in the San Joaquin Basin",
+    "url": "https://pubs.usgs.gov/pp/pp1713/",
+    "source": "U.S. Geological Survey",
+    "license_note": "U.S. government/public information; retain attribution."
+  },
+  {
+    "topic": "petroleum_systems_pdf",
+    "title": "USGS Chapter PS: Petroleum Systems",
+    "url": "https://pubs.usgs.gov/of/1998/ofr-98-0034/PS.pdf",
+    "source": "U.S. Geological Survey",
+    "license_note": "U.S. government/public information; retain attribution."
+  },
+  {
+    "topic": "permeability",
+    "title": "Permeability",
+    "url": "https://glossary.slb.com/en/terms/p/permeability",
+    "source": "SLB Energy Glossary",
+    "license_note": "Use for private educational RAG with attribution to source URL."
+  },
+  {
+    "topic": "porosity",
+    "title": "Effective Porosity",
+    "url": "https://glossary.slb.com/en/terms/e/effective_porosity",
+    "source": "SLB Energy Glossary",
+    "license_note": "Use for private educational RAG with attribution to source URL."
+  },
+  {
+    "topic": "pore_pressure",
+    "title": "Pore Pressure",
+    "url": "https://glossary.slb.com/en/terms/p/pore_pressure",
+    "source": "SLB Energy Glossary",
+    "license_note": "Use for private educational RAG with attribution to source URL."
+  },
+  {
+    "topic": "well_logging",
+    "title": "Log",
+    "url": "https://glossary.slb.com/en/terms/l/log",
+    "source": "SLB Energy Glossary",
+    "license_note": "Use for private educational RAG with attribution to source URL."
+  },
+  {
+    "topic": "drilling_fluids",
+    "title": "Drilling Fluid",
+    "url": "https://glossary.slb.com/en/terms/d/drilling_fluid",
+    "source": "SLB Energy Glossary",
+    "license_note": "Use for private educational RAG with attribution to source URL."
+  },
+  {
+    "topic": "artificial_lift",
+    "title": "Gas Lift",
+    "url": "https://glossary.slb.com/en/terms/g/gas_lift",
+    "source": "SLB Energy Glossary",
+    "license_note": "Use for private educational RAG with attribution to source URL."
+  }
+]
